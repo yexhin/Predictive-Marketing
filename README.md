@@ -20,7 +20,7 @@ This project is designed to be completed in the following steps:
 - Rupesh Kumar: This project was inspired by Rupesh Kumar's work on Kaggle. His project provided valuable insights and served as a reference point in the development of this project. You can view his original work [here](https://www.kaggle.com/code/hunter0007/predictive-marketing-k-means-clustering-pca).
 
 ## 🪬 Clustering Visualization:
-  ![Cluster 1](D:/hinh/cluster1.png)
+  ![Cluster 1](D:/hinh/cluster1.png) 
   ![Cluster 2](D:/hinh/cluster2.png)
   ![Cluster 3](D:/hinh/cluster3.png)
   ![Cluster 4](D:/hinh/cluster4.png)
