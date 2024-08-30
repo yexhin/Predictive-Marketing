@@ -1,4 +1,4 @@
-# Predicting Marketing: K-Means clustering & PCA
+# Predictive Marketing: K-Means clustering & PCA
 
 ## ✍ Description:
 - In today's business landscape, attracting targeted customers effectively is a key objective. By analyzing consumer behavior, we can gain insights and develop products that resonate with their needs.
@@ -16,6 +16,15 @@ This project is designed to be completed in the following steps:
 7. Utilize Principal Component Analysis (PCA) to reduce data dimensionality.
 8. Summarize and visualize each cluster to develop predictive marketing strategies.
 
-## 
+## 🔖 Credits and Acknowledgements:
+- Rupesh Kumar: This project was inspired by Rupesh Kumar's work on Kaggle. His project provided valuable insights and served as a reference point in the development of this project. You can view his original work [here](https://www.kaggle.com/code/hunter0007/predictive-marketing-k-means-clustering-pca).
+
+## 🪬 Clustering Visualization:
+  ![Cluster 1](D:/hinh/cluster1.png)
+  ![Cluster 2](D:/hinh/cluster2.png)
+  ![Cluster 3](D:/hinh/cluster3.png)
+  ![Cluster 4](D:/hinh/cluster4.png)
+  ![Cluster 5](D:/hinh/cluster5.png)
+
   
 
