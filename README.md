@@ -1,5 +1,5 @@
 # Predictive Marketing: K-Means clustering & PCA
-
+![pic](Images/cosumer_behavior.png)
 ## ✍ Description:
 - In today's business landscape, attracting targeted customers effectively is a key objective. By analyzing consumer behavior, we can gain insights and develop products that resonate with their needs.
 - In this project, we aim to create a business value proposition by predicting marketing strategies that target customers based on their purchasing behavior characteristics. This will be achieved using unsupervised machine learning models (K-means) and Principal Component Analysis (PCA) to reduce data dimensionality.
