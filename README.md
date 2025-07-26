@@ -22,8 +22,10 @@ This project is designed to be completed in the following steps:
 
 ## 🗃️ Dashboard:
 - Overview:
-
+![Overview DashBoard](Images/overview_dash.png)
 - Product:
+![Product DashBoard](Images/product_dash.png)
+
 ## 🪬 Clustering Visualization:
 - Cluster 1:
   ![Cluster 1](Images/cluster1.png)
