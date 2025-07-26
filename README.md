@@ -15,10 +15,15 @@ This project is designed to be completed in the following steps:
 6. Apply the K-Means model to cluster customers based on their purchasing behavior.
 7. Utilize Principal Component Analysis (PCA) to reduce data dimensionality.
 8. Summarize and visualize each cluster to develop predictive marketing strategies.
+9. Generate Interactive Dashboards for a better understanding.
 
 ## 🔖 Credits and Acknowledgements:
 - Rupesh Kumar: This project was inspired by Rupesh Kumar's work on Kaggle. His project provided valuable insights and served as a reference point in the development of this project. You can view his original work [here](https://www.kaggle.com/code/hunter0007/predictive-marketing-k-means-clustering-pca).
 
+## 🗃️ Dashboard:
+- Overview:
+
+- Product:
 ## 🪬 Clustering Visualization:
 - Cluster 1:
   ![Cluster 1](Images/cluster1.png)
